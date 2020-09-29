@@ -7,7 +7,7 @@ import csv
 import excel_entry as ex
 
 
-
+print(hi)
 
 haar_file = 'haarcascade\\haarcascade_frontalface_default.xml'
 datasets = 'datasets'
