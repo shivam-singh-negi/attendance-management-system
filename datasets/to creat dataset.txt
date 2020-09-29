@@ -1,0 +1,6 @@
+to creat data set-
+open creat dataset.py
+assign the person name in to sub directoy.
+run creat dataset.py
+it will scan using webcam
+and data set created
