@@ -1,1 +1,2 @@
-# attrndance-management-system
+# attrndance-management-system-
+This is an attendance managemet system which capture user using face recogonization. The system get active when the user give voice command like" good morning " once giveing the command the system will start caputring the user and mark the entry time .Again on giving the command like "good bye" the system will start capturing the person and then mark the exit time of the person. Based on the differnce/gap between the entry and exit time the system will mark attendance of the person accordingly.
